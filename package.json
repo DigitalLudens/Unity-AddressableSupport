@@ -9,7 +9,7 @@
         "url": "https://github.com/beio1541/AddressableSupport.git"
     },
     "dependencies": {
-        "com.unity.addressables": "1.16.9"
+        "com.unity.addressables": "1.16.19"
     },
     "keywords": [
         "Security",
